@@ -12,7 +12,7 @@
           [routerLinkActiveOptions]="{ exact: true }">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item w-100">
-        <a class="nav-link" routerLink="/my-cart" routerLinkActive="active">MyCart</a>
+        <a class="nav-link d-flex align-items-center justify-content-center" style="gap: 6px;" routerLink="/my-cart" routerLinkActive="active">MyCart<p class="m-0 bg-success p-1 d-flex align-items-center justify-content-center" style="height: 20px; width: 20px;font-size: 14px; color: white; border-radius: 12px;">{{cartList.length}}</p></a>
       </li>
       <li class="nav-item w-100 dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
