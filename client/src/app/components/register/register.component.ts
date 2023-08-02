@@ -42,6 +42,11 @@ export class RegisterComponent {
         }else{
           window.alert('Registration Failed!');
         }
+        if (error.status === 400) {
+          window.alert('User already exists');
+        } else {
+          window.alert('Registration Failed!');
+        }
         
     });
 }
