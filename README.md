@@ -6,6 +6,13 @@
 
 Welcome to the **Grocery Web Application**, a comprehensive platform designed to provide a seamless online shopping experience for all your grocery needs. With a user-friendly interface and robust backend functionalities, our application caters to both customers and administrators, ensuring efficiency and ease of use.
 
+## Team Members
+**Team ID**: NM2024TMID00538
+- **PALLI MUHAMMED SUHAIB** – Project Manager (Team Lead)
+- **ROSHAN S** – Backend Developer & MongoDB 
+- **SHERIFF AFRID H** – Backend Developer
+- **YOKHESH D** – Frontend Developer
+
 ## Demo
 
 Experience the application firsthand by watching our [**Demo Video**](https://drive.google.com/drive/folders/1ufJCH47iWg4DNyxFa3u5DV2Bc8WlVKO_?usp=sharing).
@@ -159,7 +166,7 @@ Please ensure your code adheres to the project's coding standards and includes r
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
